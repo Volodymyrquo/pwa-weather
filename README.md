@@ -1,6 +1,7 @@
 # PWA Weather Application
 
 ### [Live Site](https://vquo-weather.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eee0df0a-67dd-44c8-9b5b-7c597088c1be/deploy-status)](https://app.netlify.com/sites/vquo-weather-gh/deploys)
 
 ![PWA Weather Application](https://i.ibb.co/fXSqFC2/pwa-weather.png)
 
